@@ -1,2 +1,2 @@
-# hotel
-I developed this hotel website using HTML CSS and javascript
+# BnB tracker
+To keep track of guests, for the memzzzz
